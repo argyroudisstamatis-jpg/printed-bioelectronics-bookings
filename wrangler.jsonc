@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "printed-bioelectronics-bookings",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "printed-bioelectronics-bookings",
+      "database_id": "d1858e00-6d21-4cda-9b75-fd6ffa5c6e1a"
+    }
+  ]
+}
